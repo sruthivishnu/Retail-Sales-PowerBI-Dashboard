@@ -78,6 +78,18 @@ This project is an interactive Power BI dashboard developed to analyze retail sa
 
 ---
 
+---
+
+# 📸 Dashboard Preview
+
+## Dashboard
+
+![Dashboard](images/dashboard_page1.png)
+
+## Business Insights
+
+![Business Insights](images/dashboard_page2.png)
+
 ## 👩‍💻 Developed By
 
 **Sruthi Sukumaran**
